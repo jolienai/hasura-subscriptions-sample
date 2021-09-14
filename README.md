@@ -38,4 +38,4 @@ docker-compose up -d
 
 3. Run the C# console app
 
-4. Add some data using the Hasura UI, should see the app is print the last vehicle location added.
+4. Add some data using the Hasura UI, should see the app is print the latest location.
