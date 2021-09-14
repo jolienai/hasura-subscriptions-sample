@@ -34,6 +34,8 @@ subscription getLocation($vehicleId: Int!) {
 docker-compose up -d
 ```
 
-2.Create the tables vehicle and  vehicle_location
+2. Create the tables vehicle and  vehicle_location
 
-3.Run the C# console app
+3. Run the C# console app
+
+4. Add some data using the Hasura UI, should see the app is print the last vehicle location added.
